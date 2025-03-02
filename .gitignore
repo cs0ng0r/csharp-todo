@@ -1,0 +1,18 @@
+# Build kimenetek
+bin/
+obj/
+
+# Felhasználóspecifikus fájlok
+.vscode/
+*.user
+*.suo
+*.csproj.user
+
+# NuGet csomagok
+packages/
+.nuget/
+project.lock.json
+
+# Lokális logok és adatbázisok
+logs/
+*.log
